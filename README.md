@@ -18,7 +18,7 @@ This is my first portfolio built with [React js][1]<br/>
 
 3. Start the development server<br>
 `npm start`
-<br>
+
 ## Building for Production<br>
 1. Generate a full static production build<br>
 `npm run build`
