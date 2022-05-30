@@ -24,7 +24,7 @@ This is my first portfolio built with [React js][1]
 `npm run build`
 
 2. Preview the site as it will appear once deployed
-`serve -s buildl`
+`serve -s build`
 
 [1]: https://reactjs.org/ "React"
 [2]: http://paramjeet.netlify.app "Demo"
