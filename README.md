@@ -4,9 +4,9 @@ This is my first portfolio built with [React js][1]<br/>
 
 #### Screen Shots
 
-[![Home page](https://i.imgur.com/fO8NLJR.png "Home page")](paramjeet.netlify.app "Home page")
+[![Home page](https://i.imgur.com/fO8NLJR.png "Home page")]("Home page")
 
-[![Project section](https://i.imgur.com/KWrEK3F.png "Project section")](paramjeet.netlify.app "Project section")
+[![Project section](https://i.imgur.com/KWrEK3F.png "Project section")]("Project section")
 
 ## Installation & set up
 1. Install the Create React App CLI<br />
