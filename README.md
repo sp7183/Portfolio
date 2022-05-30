@@ -2,7 +2,7 @@
 This is my first portfolio built with [React js][1]<br/>
 [Demo][2]
 
-####Screen Shots
+#### Screen Shots
 
 [![Home page](https://i.imgur.com/fO8NLJR.png "Home page")](paramjeet.netlify.app "Home page")
 
